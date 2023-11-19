@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/node": "^20.8.6",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "build": "tsc",
+    "run": "node app",
+    "start": "tsc && node app"
+  }
+}
